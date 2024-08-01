@@ -1,2 +1,2 @@
-# desafio-carrinho-de-compras
+Desafio feito enquanto aprendia JS.
  
